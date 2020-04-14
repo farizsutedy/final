@@ -1,0 +1,59 @@
+footer{
+	background: #33FFD2;
+	padding:90px 0;
+}
+.classfooter{
+	max-width: 1300px;
+	margin: auto;
+	padding: 0 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap-reverse; 
+}
+.logo{
+	width: 10%;
+
+}
+.social{
+	margin: 20px 0;
+}
+.social a{
+	color:white;
+	margin-right: 25px;
+	font-size: 22px;
+	text-decoration: none;
+	transition: .3s linear;
+}
+.rightfooter h1{
+	font-size: 26px;
+
+}
+.border{
+	width: 100px;
+	height: 4px;
+	background: white;
+}
+.newslatter-form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+}
+.txtb{
+	padding: 18px 40px
+	border-radius: 30px;
+	outline: none;
+	font-weight: 700;
+	font-size: 16px
+}
+.btn{
+	padding: 18px 40px
+	border-radius: 30px;
+	outline: none;
+	font-weight: 700;
+	font-size: 16px
+	margin-left:20px;
+	color: white;
+	background-color: #3351FF;
+}

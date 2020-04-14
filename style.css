@@ -1,0 +1,61 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background: url(background1.jfif)no-repeat; 
+	background-size: cover;
+}
+.login-gamezone{
+	width: 10%;
+	position: absolute;
+	top:50%; 
+	left:50%;
+	transform: translate(-50%,-50%);
+	color: white;
+
+}
+.login-gamezone h1{
+	float: center;
+	font-size: 40px;
+	border-bottom: 6px solid #4caf50;
+	margin-bottom: 50px;
+	padding: 13px 0;
+}
+.text-box{
+	width: 100%;
+	overflow:hidden;
+	font-size: 20px;
+	padding: 3px 0;
+	margin:3px 0;
+	border-bottom: 1px solid #4caf50;
+
+}
+.login-gamezone i{
+	width: 15px;
+	float: left;
+	text-align: center; 
+}
+.login-gamezone input{
+	border: none;
+	outline: none;
+	background: none;
+	color: white;
+	font-size: 18px;
+	width: 100px;
+	float: left;
+	margin:10px;
+	
+}
+.btn{
+	width: 100%;
+	background:none;
+	border-bottom: 20px solid #4caf50;
+	color: white;
+	padding: 5px;
+	font-size: 8px;
+	cursor: pointer;
+	margin: 100px 0; 
+	
+
+}
